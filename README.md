@@ -1,6 +1,6 @@
 # CoderSchool FTW - * GOOGLE-NEWS *
 
-Created with love by: <TRAN KY QUOC CUONG>
+Created with love by: TRAN KY QUOC CUONG
   
 * This is the live-server news from Australia with various news categories.
 
